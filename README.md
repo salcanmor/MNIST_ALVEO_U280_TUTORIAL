@@ -1,0 +1,2 @@
+# MNIST_ALVEO_U280_TUTORIAL
+02-MNIST_classification_tf
